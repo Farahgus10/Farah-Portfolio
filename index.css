@@ -25,7 +25,11 @@
   }
 
   h1{
-      font-size: 30px;
+      font-size: 40px;
+      font-family: 'Lato', sans-serif;
+      font-weight: lighter;
+
+
   }
 
   .bio p{
