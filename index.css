@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: "Open Sans";
+    font-size: 20px;
+  }
+
+  nav{
+      background-color: #303030;
+      position: absolute;
+  }
+  
+  nav p{
+      font-size: 15px;
+      margin-left: 10px;
+      margin-top: 10px;
+      color: white;
+  }
+
+  nav a{
+    text-decoration: none;
+    color: white;
+  }
+
+  h1{
+      font-size: 30px;
+  }
+
+  .bio p{
+      font-size: 15px;
+      line-height: 1.6;
+      width: 250px;
+      float: right;
+  }
+
+  .clear {
+      clear: both;
+  }
+
+  header{
+    background-color: #303030;
+    color: white; 
+    text-align: right;
+    font-size: 20px;
+    padding: 50px;
+    height: 700px;
+  }
+
+  section{
+      height: 350px;
+      padding-top: 30px;
+      text-align: center;
+      border-top: 1px solid grey;
+  }
+
+  footer, section:nth-child(even) {
+    background-color: #ddd;
+  }
+
+  footer{
+      padding: 50px;
+      text-align: right;
+      border-top: 1px solid grey;
+  }
+
+  .section1{
+      background: url('./images/quizApp.jpg') no-repeat;
+      background-size: cover;
+      opacity: 0.4;
+  }
