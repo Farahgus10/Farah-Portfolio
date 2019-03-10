@@ -33,9 +33,6 @@ function generateMainPageHTML(){
             <a class="project-link" href="https://thinkful-ei-bee.github.io/farah-donald-quiz-app/"></a>
            
           </div></section>
-        <section>Section 2</section>
-        <section>Section 3</section>
-        <section>Section 4</section>
         <footer role="content-info">Footer</footter>
       </div>`;
 }
